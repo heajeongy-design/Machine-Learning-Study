@@ -1,6 +1,3 @@
-# Machine-Learning-Study
-Machine Learning Study and Projects
-
 # Machine Learning Study
 
 머신러닝의 주요 알고리즘을 학습하고, 다양한 데이터를 활용하여 직접 분석 및 예측 모델을 구현한 내용을 정리한 Repository입니다.
